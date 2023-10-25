@@ -1,0 +1,6 @@
+
+kpython:S2208"GImport only needed names or import the module and then use its members.(Ì†ª¸ˇˇˇˇ8ì∑§à¥1
+|python:S2737!"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(⁄ÊÀﬁ˘ˇˇˇˇ8ì∑§à¥1
+|python:S27370"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(œıÓÀ˚ˇˇˇˇ8ì∑§à¥1
+\python:S112.">Replace this generic exception class with a more specific one.(ÈÇÅë8ì∑§à¥1
+\python:S112:">Replace this generic exception class with a more specific one.(ÈÇÅë8ì∑§à¥1
