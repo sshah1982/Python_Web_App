@@ -1,6 +1,6 @@
-# Python Projects
+# Python Web Application
 
-Repository for Expense Tracker web application using Python 3, FastAPI, SQLAlchemy, Alembic and PyTest
+Repository for Expense Tracker web application using Python 3, FastAPI, SQLAlchemy, MySQL, Alembic and PyTest
 
 This repository features web application named Expense Tracker using FastAPI features.
 
