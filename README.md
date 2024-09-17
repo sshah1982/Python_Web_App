@@ -12,7 +12,7 @@ One User can have many expenses.
 
 ORM used is SQLAlchemy which talks to MySQL database.
 
-CRUD operationns are handled and exception handling is done with proper response codes.
+CRUD operations are handled and exception handling is done with proper response codes.
 
 Basic testcases are also there. 
 
